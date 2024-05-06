@@ -1,7 +1,5 @@
 ﻿using System.Text;
 using System.Threading.Tasks;
-using AbstractFactory.Family.AbstractParts;
-using AbstractFactory.Quadro;
 
 namespace AbstractFactory.Family.Quadro
 {
@@ -11,10 +9,13 @@ namespace AbstractFactory.Family.Quadro
         {
             return new QuadroEngine();
         }
-
         public override Regulator CreateRegulator()
         {
             return new QuadroRegulator();
+        }
+        public override Propeller CreatePropeller()
+        {
+            return new QuadroPropeller();
         }
     }
 }

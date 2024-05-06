@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractFactory.Family.AbstractParts
+namespace AbstractFactory.Family
 {
     public abstract class QuadrocopterFactory
     {
         // Abstract methods to be implemented by concrete factories
         public abstract Engine CreateEngine();
         public abstract Regulator CreateRegulator();
+        public abstract Propeller CreatePropeller();
     }
 }

@@ -1,5 +1,4 @@
 ﻿using System;
-using AbstractFactory.Family.AbstractParts;
 
 namespace AbstractFactory.Family.Fly
 {
@@ -7,6 +6,7 @@ namespace AbstractFactory.Family.Fly
     {
         public FlyEngine()
         {
+            EngineSpeed = 300;
             Console.WriteLine("The FlyEngine has been created.");
         }
 

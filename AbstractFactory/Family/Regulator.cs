@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractFactory.Family.AbstractParts
+namespace AbstractFactory.Family
 {
     public abstract class Regulator
     {
@@ -12,5 +12,10 @@ namespace AbstractFactory.Family.AbstractParts
         public double CurrentCurrent { get; set; } // Current
 
         public abstract void IncreaseVoltage();
+        public override string ToString()
+        {
+            return $" - Voltage: {CurrentVoltage}V\n" +
+                $" - Current: {CurrentCurrent}";
+        }
     }
 }

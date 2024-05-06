@@ -1,5 +1,4 @@
 ﻿using System;
-using AbstractFactory.Family.AbstractParts;
 
 namespace AbstractFactory.Family.Quadro
 {
@@ -7,6 +6,7 @@ namespace AbstractFactory.Family.Quadro
     {
         public QuadroEngine()
         {
+            EngineSpeed = 100;
             Console.WriteLine("The QuadroEngine has been created.");
         }
 
