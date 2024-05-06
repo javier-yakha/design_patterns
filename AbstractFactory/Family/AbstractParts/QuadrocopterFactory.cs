@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractFactory
+namespace AbstractFactory.Family.AbstractParts
 {
     public abstract class QuadrocopterFactory
     {

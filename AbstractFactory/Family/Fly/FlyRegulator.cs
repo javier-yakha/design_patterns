@@ -1,6 +1,7 @@
 ﻿using System;
+using AbstractFactory.Family.AbstractParts;
 
-namespace AbstractFactory
+namespace AbstractFactory.Family.Fly
 {
     public class FlyRegulator : Regulator
     {

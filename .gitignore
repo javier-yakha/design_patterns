@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/design_patterns/FileContentIndex
+/.vs/design_patterns/v17
+/.vs
+/AbstractFactory/.vs/AbstractFactory

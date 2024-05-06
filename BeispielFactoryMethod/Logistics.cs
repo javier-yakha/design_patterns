@@ -7,8 +7,10 @@ namespace BeispielFactoryMethod
 
         public Transport ManageTransportForCustomer(string transportType)
         {
+            
             Transport transport = TransportFactory(transportType);
 
+            // Operation is separated from the Creation
             transport.CollectProductFromCustomer();
             transport.TransportProducts();
 

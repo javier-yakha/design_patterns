@@ -1,6 +1,8 @@
 ﻿using System.Text;
+using AbstractFactory.Family.AbstractParts;
+using AbstractFactory.Fly;
 
-namespace AbstractFactory
+namespace AbstractFactory.Family.Fly
 {
     public class FlyFactory : QuadrocopterFactory
     {

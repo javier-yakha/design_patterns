@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbstractFactory
+namespace AbstractFactory.Family.AbstractParts
 {
     public abstract class Engine
     {

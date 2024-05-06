@@ -1,4 +1,6 @@
-﻿namespace AbstractFactory;
+﻿using AbstractFactory.Family.AbstractParts;
+
+namespace AbstractFactory;
 
 class Program
 {

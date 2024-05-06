@@ -7,23 +7,16 @@ namespace BeispielFactoryMethod
         protected override Transport TransportFactory(string transportType)
         {
             Transport transport = null;
-
-            if (transportType == "street")
+            transport = transportType switch
             {
-                transport = new StreetTransport();
-            }
-            else if (transportType == "air")
-            {
-                transport = new FlightTransport();
-            }
-            else if (transportType == "sea")
-            {
-                transport = new SeaTransport();
-            }
-            else
-            {
-                Console.WriteLine("Invalid transport type");
-            }
+                "street" => new StreetTransport(),
+                "air" => new FlightTransport(),
+                "sea" => new SeaTransport(),
+                "camel" => new CamelTransport(),
+                _ => throw new NotSupportedException($"Transport by {transportType} is not supported")
+            };
+            
+            // Console.WriteLine("Invalid transport type");
 
             return transport;
         }

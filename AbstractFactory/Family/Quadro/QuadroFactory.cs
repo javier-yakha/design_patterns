@@ -1,7 +1,9 @@
 ﻿using System.Text;
 using System.Threading.Tasks;
+using AbstractFactory.Family.AbstractParts;
+using AbstractFactory.Quadro;
 
-namespace AbstractFactory
+namespace AbstractFactory.Family.Quadro
 {
     public class QuadroFactory : QuadrocopterFactory
     {
