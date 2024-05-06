@@ -1,4 +1,5 @@
 ﻿using System;
+using AbstractFactory.Family.AbstractParts;
 
 namespace AbstractFactory.Family.Quadro
 {
