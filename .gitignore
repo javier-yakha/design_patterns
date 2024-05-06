@@ -2,7 +2,138 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 /.vs/design_patterns/FileContentIndex
 /.vs/design_patterns/v17
 /.vs
 /AbstractFactory/.vs/AbstractFactory
+/AbstractFactory/.vs/ProjectEvaluation
+/Adapter/obj/Release/net7.0
+/Bridge/obj/Debug/net7.0/apphost.exe
+/Bridge/obj/Release/net7.0
+/Composite/obj/Debug/net7.0/apphost.exe
+/Composite/obj/Release/net7.0
+/Decorator/.vs/Decorator/DesignTimeBuild
+/Decorator/.vs/Decorator
+/Decorator/bin/Debug/net7.0/Decorator.exe
+/Decorator/obj/Release/net7.0
+/Exercises/Adapter Pattern/TaskAdapter/obj/Release/net7.0
+/Exercises/Factory Method/TaskFactoryMethod/obj/Release/net7.0
+/Facade/obj/Release/net7.0
+/Mediator/obj/Release/net7.0
+=======
+/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/StrategyPattern/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/StrategyPattern/obj/Release/net7.0/StrategyPattern.AssemblyInfo.cs
+/StrategyPattern/obj/Release/net7.0/StrategyPattern.GlobalUsings.g.cs
+/AbstractFactory/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/AbstractFactory/obj/Release/net7.0/AbstractFactory.AssemblyInfo.cs
+/AbstractFactory/obj/Release/net7.0/AbstractFactory.GlobalUsings.g.cs
+/Adapter/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Adapter/obj/Release/net7.0/Adapter.AssemblyInfo.cs
+/Adapter/obj/Release/net7.0/Adapter.GlobalUsings.g.cs
+/Bridge/obj/Debug/net7.0/Bridge.AssemblyInfo.cs
+/Bridge/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Bridge/obj/Release/net7.0/Bridge.AssemblyInfo.cs
+/Bridge/obj/Release/net7.0/Bridge.GlobalUsings.g.cs
+/Composite/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Composite/obj/Release/net7.0/Composite.AssemblyInfo.cs
+/Composite/obj/Release/net7.0/Composite.GlobalUsings.g.cs
+/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfo.cs
+/Decorator/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Decorator/obj/Release/net7.0/Decorator.AssemblyInfo.cs
+/Decorator/obj/Release/net7.0/Decorator.GlobalUsings.g.cs
+/Exercises/Adapter Pattern/TaskAdapter/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Exercises/Adapter Pattern/TaskAdapter/obj/Release/net7.0/TaskAdapter.AssemblyInfo.cs
+/Exercises/Adapter Pattern/TaskAdapter/obj/Release/net7.0/TaskAdapter.GlobalUsings.g.cs
+/Exercises/Factory Method/TaskFactoryMethod/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Exercises/Factory Method/TaskFactoryMethod/obj/Release/net7.0/TaskFactoryMethod.AssemblyInfo.cs
+/Exercises/Factory Method/TaskFactoryMethod/obj/Release/net7.0/TaskFactoryMethod.GlobalUsings.g.cs
+/Facade/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Composite/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Facade/obj/Release/net7.0/Facade.AssemblyInfo.cs
+/Facade/obj/Release/net7.0/Facade.GlobalUsings.g.cs
+/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+/Mediator/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Mediator/obj/Release/net7.0/Mediator.AssemblyInfo.cs
+/Mediator/obj/Release/net7.0/Mediator.GlobalUsings.g.cs
+/StrategyPattern/obj/Debug/net7.0/StrategyPattern.AssemblyInfo.cs
+/StrategyPattern/obj/Debug/net7.0/StrategyPattern.csproj.BuildWithSkipAnalyzers
+/TemplateMethod/obj/Debug/net7.0/TemplateMethod.AssemblyInfo.cs
+/TemplateMethod/obj/Debug/net7.0/TemplateMethod.csproj.BuildWithSkipAnalyzers
+/TemplateMethod/obj/Release/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/TemplateMethod/obj/Release/net7.0/TemplateMethod.AssemblyInfo.cs
+/TemplateMethod/obj/Release/net7.0/TemplateMethod.GlobalUsings.g.cs
+/.vs/design_patterns/FileContentIndex
+/.vs
+/AbstractFactory/.vs/AbstractFactory/FileContentIndex
+/AbstractFactory/.vs/AbstractFactory/v17
+/AbstractFactory/.vs/AbstractFactory/DesignTimeBuild
+/AbstractFactory/.vs/ProjectEvaluation
+/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/AbstractFactory/obj/Debug/net7.0/AbstractFactory.assets.cache
+/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/AbstractFactory/obj/Debug/net7.0/apphost.exe
+/AbstractFactory/obj/Release/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/AbstractFactory/obj/Release/net7.0/AbstractFactory.assets.cache
+/AbstractFactory/obj/Release/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Adapter/obj/Release/net7.0/Adapter.AssemblyInfoInputs.cache
+/Adapter/obj/Release/net7.0/Adapter.assets.cache
+/Adapter/obj/Release/net7.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Bridge/obj/Debug/net7.0/apphost.exe
+/Bridge/obj/Debug/net7.0/Bridge.AssemblyInfoInputs.cache
+/Bridge/obj/Debug/net7.0/Bridge.assets.cache
+/Bridge/obj/Debug/net7.0/Bridge.GeneratedMSBuildEditorConfig.editorconfig
+/Decorator/.vs/Decorator/v17
+/Decorator/bin/Debug/net7.0
+/Decorator/.vs/ProjectEvaluation
+/Decorator/.vs/Decorator/FileContentIndex
+/Composite/obj/Release/net7.0
+/Composite/obj/Debug/net7.0
+/Bridge/obj/Release/net7.0
+/Decorator/.vs/Decorator/DesignTimeBuild
+/Decorator/obj/Debug/net7.0/apphost.exe
+/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfoInputs.cache
+/Decorator/obj/Debug/net7.0/Decorator.assets.cache
+/Decorator/obj/Debug/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Decorator/obj/Release/net7.0/Decorator.AssemblyInfoInputs.cache
+/Decorator/obj/Release/net7.0/Decorator.assets.cache
+/Decorator/obj/Release/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Exercises/Adapter Pattern/TaskAdapter/obj/Release/net7.0
+/Exercises/Factory Method/TaskFactoryMethod/obj/Release/net7.0
+/Facade/obj/Release/net7.0
+/Mediator/.vs
+/Mediator/obj/Release/net7.0
+/StrategyPattern/.vs
+/StrategyPattern/bin/Debug/net7.0
+/Mediator/obj/Debug/net7.0/apphost.exe
+/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfoInputs.cache
+/Mediator/obj/Debug/net7.0/Mediator.assets.cache
+/Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/StrategyPattern/obj/Debug/net7.0/apphost.exe
+/StrategyPattern/obj/Debug/net7.0/StrategyPattern.AssemblyInfoInputs.cache
+/StrategyPattern/obj/Debug/net7.0/StrategyPattern.assets.cache
+/StrategyPattern/obj/Debug/net7.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/StrategyPattern/obj/Debug/net7.0/StrategyPattern.sourcelink.json
+/TemplateMethod/.vs
+/StrategyPattern/obj/Release/net7.0/StrategyPattern.AssemblyInfoInputs.cache
+/StrategyPattern/obj/Release/net7.0/StrategyPattern.assets.cache
+/StrategyPattern/obj/Release/net7.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/TemplateMethod/bin/Debug/net7.0/TemplateMethod.exe
+/TemplateMethod/obj/Debug/net7.0/apphost.exe
+/TemplateMethod/obj/Debug/net7.0/TemplateMethod.AssemblyInfoInputs.cache
+/TemplateMethod/obj/Debug/net7.0/TemplateMethod.assets.cache
+/TemplateMethod/obj/Debug/net7.0/TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/TemplateMethod/obj/Debug/net7.0/TemplateMethod.sourcelink.json
+/TemplateMethod/obj/Release/net7.0
+>>>>>>> 94b0d95 (sync?)
+Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+Facade/obj/Facade.csproj.nuget.dgspec.json
+Facade/obj/Facade.csproj.nuget.g.props
+Facade/obj/project.assets.json
+Facade/obj/project.nuget.cache
+Facade/obj/Debug/net7.0/Facade.AssemblyInfo.cs
+Facade/obj/Debug/net7.0/Facade.AssemblyInfoInputs.cache
+Facade/obj/Debug/net7.0/Facade.assets.cache
+Facade/obj/Debug/net7.0/Facade.GeneratedMSBuildEditorConfig.editorconfig

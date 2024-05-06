@@ -13,3 +13,21 @@
 /Users/txpert/Projects/design_patterns/Mediator/obj/Debug/net7.0/Mediator.pdb
 /Users/txpert/Projects/design_patterns/Mediator/obj/Debug/net7.0/Mediator.genruntimeconfig.cache
 /Users/txpert/Projects/design_patterns/Mediator/obj/Debug/net7.0/ref/Mediator.dll
+<<<<<<< HEAD
+=======
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\bin\Debug\net7.0\Mediator.exe
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\bin\Debug\net7.0\Mediator.deps.json
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\bin\Debug\net7.0\Mediator.runtimeconfig.json
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\bin\Debug\net7.0\Mediator.dll
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\bin\Debug\net7.0\Mediator.pdb
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfo.cs
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.sourcelink.json
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.dll
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\refint\Mediator.dll
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.pdb
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\Mediator.genruntimeconfig.cache
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Mediator\obj\Debug\net7.0\ref\Mediator.dll
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)

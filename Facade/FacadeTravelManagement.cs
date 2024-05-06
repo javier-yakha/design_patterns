@@ -1,14 +1,14 @@
 ﻿using System;
 namespace Facade
 {
-    public class FacadeLuggageManagement
+    public class FacadeTravelManagement
     {
         private AirportSystem airport;
         private Airplane plane;
         private LocalTransportCompany company;
         private Hotel hotel;
 
-        public FacadeLuggageManagement()
+        public FacadeTravelManagement()
         {
             airport = new AirportSystem();
             plane = new Airplane();
@@ -25,6 +25,17 @@ namespace Facade
             company.PutLuggageIntoTruck();
             company.TransportLuggageToHotel();
             hotel.TransportLuggageToRoom();
+        }
+        public void PassengerTravel()
+        {
+            airport.BoardingCheckIn();
+            airport.CustomsCheck();
+            plane.BoardIn();
+            plane.BoardOut();
+            company.PickUpAtAirport();
+            company.DropOffAtHotel();
+            hotel.CheckIn();
+            hotel.AccomodateGuest();
         }
     }
 }

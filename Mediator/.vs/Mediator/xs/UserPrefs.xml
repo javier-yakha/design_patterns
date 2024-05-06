@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{5A81C511-E5B7-4973-8CA4-83D2A85806B9}|Default">
+<<<<<<< HEAD
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -9,13 +10,27 @@
       <File FileName="UserImpl.cs" Line="19" Column="1" />
       <File FileName="User.cs" Line="18" Column="2" />
       <File FileName="ChatMediatorImpl.cs" Line="29" Column="1" />
+=======
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IChatMediator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="27" />
+      <File FileName="IChatMediator.cs" Line="7" Column="14" />
+      <File FileName="UserImpl.cs" Line="6" Column="38" />
+      <File FileName="User.cs" Line="16" Column="35" />
+      <File FileName="ChatMediatorImpl.cs" Line="23" Column="19" />
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mediator">
             <Node name="Mediator">
+<<<<<<< HEAD
               <Node name="User.cs" selected="True" />
+=======
+              <Node name="IChatMediator.cs" selected="True" />
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
             </Node>
           </Node>
         </State>
@@ -23,7 +38,15 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Mediator PreferredExecutionTarget="MonoDevelop.Default" />
+<<<<<<< HEAD
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+=======
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
 </Properties>

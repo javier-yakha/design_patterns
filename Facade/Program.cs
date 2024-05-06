@@ -23,13 +23,14 @@ class Program
         Hotel hotel = new Hotel();
         hotel.TransportLuggageToRoom();
 
-        // Wait for a key press to close the console window
-        Console.ReadKey();
-
-
-        //FacadeLuggageManagement bookingSystem = new FacadeLuggageManagement();
-        //bookingSystem.SendLuggage();
+        //// Wait for a key press to close the console window
         //Console.ReadKey();
+
+
+        FacadeTravelManagement bookingSystem = new FacadeTravelManagement();
+        bookingSystem.SendLuggage();
+        bookingSystem.PassengerTravel();
+        Console.ReadKey();
     }
 }
 
