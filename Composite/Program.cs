@@ -6,7 +6,7 @@ class Program
     {
         {
             // Create a new directory for the course
-            Directory designpatterns = new Directory("training");
+            Directory designpatterns = new Directory("designpatterns");
 
             // Create a new file for the course content and add it to the design patterns directory
             File content = new File("content", "Timo");
@@ -24,7 +24,7 @@ class Program
             videos.Add(video1);
             videos.Add(video2);
 
-            // Print the contents of the video course directory
+            // Print the contents of the design patterns
             designpatterns.Print();
 
             // Wait for a key press before closing the console
