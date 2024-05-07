@@ -1,6 +1,4 @@
-# Design Patterns Repository
-
-Welcome to the **Design Patterns Repository**! This repository contains code examples, explanations, and best practices for implementing software design patterns. It is designed to help developers learn and apply these patterns to create more maintainable, scalable, and efficient code.
+# Design Patterns
 
 ## Table of Contents
 
