@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/txpert/Projects/Decorator/Decorator.csproj": {}
+    "/Users/txpert/Projects/design_patterns/Decorator/Decorator.csproj": {}
   },
   "projects": {
-    "/Users/txpert/Projects/Decorator/Decorator.csproj": {
+    "/Users/txpert/Projects/design_patterns/Decorator/Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/txpert/Projects/Decorator/Decorator.csproj",
+        "projectUniqueName": "/Users/txpert/Projects/design_patterns/Decorator/Decorator.csproj",
         "projectName": "Decorator",
-        "projectPath": "/Users/txpert/Projects/Decorator/Decorator.csproj",
+        "projectPath": "/Users/txpert/Projects/design_patterns/Decorator/Decorator.csproj",
         "packagesPath": "/Users/txpert/.nuget/packages/",
-        "outputPath": "/Users/txpert/Projects/Decorator/obj/",
+        "outputPath": "/Users/txpert/Projects/design_patterns/Decorator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/txpert/.nuget/NuGet/NuGet.Config"

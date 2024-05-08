@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/TemplateMethod/bin/Debug/net7.0/TemplateMethod
+/Users/txpert/Projects/design_patterns/TemplateMethod/bin/Debug/net7.0/TemplateMethod.deps.json
+/Users/txpert/Projects/design_patterns/TemplateMethod/bin/Debug/net7.0/TemplateMethod.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/TemplateMethod/bin/Debug/net7.0/TemplateMethod.dll
+/Users/txpert/Projects/design_patterns/TemplateMethod/bin/Debug/net7.0/TemplateMethod.pdb
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.dll
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/refint/TemplateMethod.dll
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.pdb
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/TemplateMethod.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/TemplateMethod/obj/Debug/net7.0/ref/TemplateMethod.dll

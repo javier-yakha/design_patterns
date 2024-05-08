@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "30DPLx/o8TqZ+ab1fzfKQ8zt0o1W0/oWfa/xhQ3vaYpMHq1NJNuds6YhRcv/b1U0+eRg5orNqQ6SwhgaArxnyQ==",
+  "dgSpecHash": "hPnh8nsi1oaA4TIDBlbya5GYvD00iLZJzNpNOZAlDdKj+xpGzCmcYCinvUOkaRwkjPstL9OI1FVNeV03GGjVvg==",
   "success": true,
-  "projectFilePath": "/Users/txpert/Projects/Decorator/Decorator.csproj",
+  "projectFilePath": "/Users/txpert/Projects/design_patterns/Decorator/Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

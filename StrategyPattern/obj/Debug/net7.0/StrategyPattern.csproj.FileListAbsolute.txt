@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/StrategyPattern/bin/Debug/net7.0/StrategyPattern
+/Users/txpert/Projects/design_patterns/StrategyPattern/bin/Debug/net7.0/StrategyPattern.deps.json
+/Users/txpert/Projects/design_patterns/StrategyPattern/bin/Debug/net7.0/StrategyPattern.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/StrategyPattern/bin/Debug/net7.0/StrategyPattern.dll
+/Users/txpert/Projects/design_patterns/StrategyPattern/bin/Debug/net7.0/StrategyPattern.pdb
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.dll
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/refint/StrategyPattern.dll
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.pdb
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/StrategyPattern.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/StrategyPattern/obj/Debug/net7.0/ref/StrategyPattern.dll
