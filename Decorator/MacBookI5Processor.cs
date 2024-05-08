@@ -26,7 +26,6 @@ namespace Decorator
         public override void IncreaseVolume()
         {
             macBook.IncreaseVolume();
-            Console.WriteLine("The volume was increased!");
         }
     }
 }

@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        PoliceOfficerWorkday mw = new PoliceOfficerWorkday();
+        ManagerWorkday mw = new ManagerWorkday();
         mw.CreateWorkday(); // Executes the template method
         Console.ReadKey();
     }
