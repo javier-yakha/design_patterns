@@ -5,7 +5,7 @@ namespace Observer
     {
         private Newsletter currentNewsletter;
 
-        public SportNewsletter(Newsletter newsletter)
+        public SportNewsletter(Newsletter newsletter) //constructor so the sportnewsletter can be created in main
         {
             this.currentNewsletter = newsletter;
         }
@@ -15,11 +15,11 @@ namespace Observer
             return currentNewsletter;
         }
 
-        // Method to set a new newsletter and notify all observers
+        // Method to set a new newsletter and notify all observers (when it changes)
         public void SetNewsletter(Newsletter newNewsletter)
         {
             currentNewsletter = newNewsletter;
-            Console.WriteLine("Es ist ein neuer Newsletter erschienen: " + currentNewsletter.Topic);
+            Console.WriteLine("A Newsletter has been published: " + currentNewsletter.Topic);
             SendNewsletter(currentNewsletter);
         }
     }

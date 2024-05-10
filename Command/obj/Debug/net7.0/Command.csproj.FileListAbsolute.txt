@@ -1,0 +1,15 @@
+/Users/txpert/Projects/design_patterns/Command/bin/Debug/net7.0/Command
+/Users/txpert/Projects/design_patterns/Command/bin/Debug/net7.0/Command.deps.json
+/Users/txpert/Projects/design_patterns/Command/bin/Debug/net7.0/Command.runtimeconfig.json
+/Users/txpert/Projects/design_patterns/Command/bin/Debug/net7.0/Command.dll
+/Users/txpert/Projects/design_patterns/Command/bin/Debug/net7.0/Command.pdb
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.csproj.AssemblyReference.cache
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.AssemblyInfoInputs.cache
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.AssemblyInfo.cs
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.csproj.CoreCompileInputs.cache
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.dll
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/refint/Command.dll
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.pdb
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/Command.genruntimeconfig.cache
+/Users/txpert/Projects/design_patterns/Command/obj/Debug/net7.0/ref/Command.dll
