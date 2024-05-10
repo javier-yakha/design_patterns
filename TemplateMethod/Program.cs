@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        ManagerWorkday mw = new ManagerWorkday();
-        mw.CreateWorkday(); // Executes the template method
+        YakhaTraineeWorkday ytw = new YakhaTraineeWorkday();
+        ytw.CreateWorkday(); // Executes the template method
         Console.ReadKey();
     }
 }

@@ -6,7 +6,7 @@ namespace Decorator
         // Returns the description of the MacBook Air with standard equipment.
         public string GetDescription()
         {
-            return "MacBook Air with standard equipment"; // ""
+            return "MacBook Air with standard equipment\n"; // ""
         }
 
         // Returns the price of the MacBook Air.

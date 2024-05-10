@@ -8,7 +8,7 @@ class Program
         Investment inv = new Investment(300.00);
 
         // Set the investment strategy to GoldInvestment
-        inv.SetInvestmentStrategy(new CryptoInvestment());
+        inv.SetInvestmentStrategy(new RealStateInvestment());
 
         // Simulate talking to a bank employee
         inv.TalkToBankEmployee();

@@ -3,8 +3,9 @@ namespace Mediator
 {
     public interface IChatMediator
     {
-        void SendMessage(string message, User user);
         void AddUser(User user);
+        void SendMessage(string message, User user);
+        void SendMessage(string message, User sender, User receiver);
     }
 }
 

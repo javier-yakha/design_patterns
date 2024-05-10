@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "hPnh8nsi1oaA4TIDBlbya5GYvD00iLZJzNpNOZAlDdKj+xpGzCmcYCinvUOkaRwkjPstL9OI1FVNeV03GGjVvg==",
   "success": true,
   "projectFilePath": "/Users/txpert/Projects/design_patterns/Decorator/Decorator.csproj",
+=======
+  "dgSpecHash": "g1Qt51UWvcomopmYgrS0IwAOIpNi5VtwEfNsmjrgTmnaeAa/y/X9zx0olSZFOotk/F48sbRuJNjQCbWCMgAuDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Decorator\\Decorator.csproj",
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
   "expectedPackageFiles": [],
   "logs": []
 }

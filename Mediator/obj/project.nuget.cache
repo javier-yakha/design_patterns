@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "peRti+cNeW27ZyRlLnz966vzJ5dAaO7Bqr8gT8qWjHelHCo3dr5OPuQ5zV898Qnbal12EsiTpeAE1AUpI7Gkig==",
   "success": true,
   "projectFilePath": "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj",
+=======
+  "dgSpecHash": "4Erx8UdMfHSsxMgVHdtS/VJdJlswdIHMwuzdSL8t89Z25omB7Nlfw7n1hrciqeuX62maPIS0DO6Onuyn0xXCWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Mediator\\Mediator.csproj",
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
   "expectedPackageFiles": [],
   "logs": []
 }

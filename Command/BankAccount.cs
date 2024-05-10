@@ -14,19 +14,18 @@ namespace Command
 
         public void Withdraw(double amount)
         {
-
-            if (Balance - amount >= -OverdraftLimit)
+            if (Balance + OverdraftLimit < amount)
             {
-                Balance -= amount;
-                Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
+                Console.WriteLine($"Your request:" + 
+                    $"\t€{amount}" +
+                    "\n" +
+                    $"Surpasses the current withdrawal limit:" + 
+                    $"\t€{Balance + OverdraftLimit}." + 
+                    "Insufficient funds.");
+                return;
             }
-            else
-            {
-                Console.WriteLine("Not enough funds available.");
-            }
-
-            //Balance -= amount;
-            //Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
+            Balance -= amount;
+            Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
         }
 
         public override string ToString()
