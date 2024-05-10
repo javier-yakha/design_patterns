@@ -5,18 +5,21 @@ namespace Command
     {
         private BankAccount bankAccount;
         private double amount; //the deposit amount 
-
+        
         public DepositCommand(BankAccount bankAccount, double amount) //constr
         {
             this.bankAccount = bankAccount;
-            this.amount = amount;
+            this.amount = amount > 0 ? amount : 0;
         }
 
         public void Execute()
         {
             bankAccount.Deposit(amount);
         }
-        public void Undo() {}
+        public void Undo() 
+        {
+            bankAccount.Deposit(-amount);
+        }
     }
 }
 
