@@ -17,6 +17,7 @@ class Program
         // Displays the house details
         Console.WriteLine(woodenHouse);
         // Waits for a key press to close the console window
+        
         Console.ReadKey();
     }
 }
