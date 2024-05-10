@@ -9,12 +9,16 @@ namespace Command
         public WithdrawCommand(BankAccount bankAccount, double amount)
         {
             this.bankAccount = bankAccount;
-            this.amount = amount;
+            this.amount = amount > 0 ? amount : 0;
         }
 
         public void Execute()
         {
             bankAccount.Withdraw(amount);
+        }
+        public void Undo() 
+        {
+            bankAccount.Withdraw(-amount);
         }
     }
 }
