@@ -15,14 +15,7 @@ namespace Iterator
 
         public bool HasNext()
         {
-            if (currentPosition < channels.Count)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return currentPosition < channels.Count;
         }
 
         public Channel Next()
