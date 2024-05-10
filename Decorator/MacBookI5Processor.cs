@@ -13,7 +13,7 @@ namespace Decorator
         // Enhances the description with an additional note about the i5 processor.
         public override string GetDescription()
         {
-            return macBook.GetDescription() + " Additionally, an i5 processor was installed!!"; // ""
+            return macBook.GetDescription() + " Additionally, an i5 processor was installed!!\n"; // ""
         }
 
         // Adds the cost of the i5 processor to the base price.

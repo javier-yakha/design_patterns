@@ -13,6 +13,7 @@
 /Users/txpert/Projects/Decorator/obj/Debug/net7.0/Decorator.pdb
 /Users/txpert/Projects/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
 /Users/txpert/Projects/Decorator/obj/Debug/net7.0/ref/Decorator.dll
+<<<<<<< HEAD
 /Users/txpert/Projects/design_patterns/Decorator/bin/Debug/net7.0/Decorator
 /Users/txpert/Projects/design_patterns/Decorator/bin/Debug/net7.0/Decorator.deps.json
 /Users/txpert/Projects/design_patterns/Decorator/bin/Debug/net7.0/Decorator.runtimeconfig.json
@@ -28,3 +29,20 @@
 /Users/txpert/Projects/design_patterns/Decorator/obj/Debug/net7.0/Decorator.pdb
 /Users/txpert/Projects/design_patterns/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
 /Users/txpert/Projects/design_patterns/Decorator/obj/Debug/net7.0/ref/Decorator.dll
+=======
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.sourcelink.json
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Users\user\Source\Repos\javier-yakha\design_patterns\Decorator\obj\Debug\net7.0\ref\Decorator.dll
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)

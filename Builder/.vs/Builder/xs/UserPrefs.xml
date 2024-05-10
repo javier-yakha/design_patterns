@@ -1,25 +1,18 @@
 ﻿<Properties StartupConfiguration="{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="7" Column="9" />
-      <File FileName="WoodHouseBuilder.cs" />
-      <File FileName="House.cs" />
-      <File FileName="HouseBuilder.cs" />
-      <File FileName="CivilEngineer.cs" />
-      <File FileName="StoneHouseBuilder.cs" />
+      <File FileName="Program.cs" Line="11" Column="15" />
+      <File FileName="WoodHouseBuilder.cs" Line="28" Column="9" />
+      <File FileName="House.cs" Line="18" Column="20" />
+      <File FileName="HouseBuilder.cs" Line="9" Column="33" />
+      <File FileName="CivilEngineer.cs" Line="21" Column="50" />
+      <File FileName="StoneHouseBuilder.cs" Line="10" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Builder" expanded="True">
-            <Node name="Builder" expanded="True">
+          <Node name="Builder">
+            <Node name="Builder">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -27,4 +20,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

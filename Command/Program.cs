@@ -9,6 +9,7 @@ class Program
 
         CashMachine cashMachineSC = new CashMachine();
 
+
         List<IBankTransactionCommand> commands = new();
 
         IBankTransactionCommand command1 = new DepositCommand(timoBA, 2000);
@@ -31,6 +32,7 @@ class Program
         // cashMachineSC.UndoBankTransaction(command3);
         // cashMachineSC.UndoBankTransaction(command1);
         // cashMachineSC.UndoBankTransaction(command2);
+
 
         Console.WriteLine(timoBA);
         Console.ReadKey();

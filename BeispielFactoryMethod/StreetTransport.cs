@@ -10,7 +10,10 @@ namespace BeispielFactoryMethod
     {
         public override void TransportProducts()
         {
-            Console.WriteLine("The products are transported via the road.");
+            Console.WriteLine($"Goods have been\n" +
+                $" - Collected from: {Customer}\n" +
+                $" - Transported to: {Destination}\n" +
+                $" - by the Land route");
         }
     }
 }

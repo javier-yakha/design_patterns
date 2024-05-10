@@ -13,7 +13,7 @@ namespace Decorator
         // Returns the description of the MacBook along with the added touch bar information.
         public override string GetDescription()
         {
-            return macBook.GetDescription() + " Additionally, a touch bar was installed!"; // German: "Zusätzlich wurde eine Touchbar verbaut!"
+            return macBook.GetDescription() + " Additionally, a touch bar was installed!\n"; // German: "Zusätzlich wurde eine Touchbar verbaut!"
         }
 
         // Returns the price of the MacBook plus the additional cost for the touch bar.

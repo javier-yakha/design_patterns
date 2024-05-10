@@ -12,7 +12,9 @@ namespace Mediator
             Name = name;
         }
 
-        public abstract void SendMessage(string message);
         public abstract void ReceiveMessage(string message);
+        public abstract void ReceiveMessage(string message, User user);
+        public abstract void SendMessage(string message);
+        public abstract void SendMessage(string message, User user);
     }
 }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj": {}
   },
   "projects": {
@@ -15,11 +16,37 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/txpert/.nuget/NuGet/NuGet.Config"
+=======
+    "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Mediator\\Mediator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Mediator\\Mediator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Mediator\\Mediator.csproj",
+        "projectName": "Mediator",
+        "projectPath": "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Mediator\\Mediator.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Source\\Repos\\javier-yakha\\design_patterns\\Mediator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+<<<<<<< HEAD
+=======
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +59,14 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
         }
       },
       "frameworks": {
@@ -53,7 +88,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+>>>>>>> e3c1506 (Abstract Factory - Added Propeller)
         }
       }
     }

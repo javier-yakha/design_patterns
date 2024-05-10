@@ -6,7 +6,7 @@ namespace Decorator
         // Returns the description of the MacBook Pro with standard equipment.
         public string GetDescription()
         {
-            return "MacBook Pro with standard equipment"; 
+            return "MacBook Pro with standard equipment\n"; 
         }
 
         // Returns the price of the MacBook Pro.

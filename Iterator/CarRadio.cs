@@ -17,7 +17,7 @@ namespace Iterator
             channels.Add(c);
         }
 
-        public IChannelIterator CreateIterator()
+        public IChannelIterator CreateIterator() //the iterator connection part
         {
             ChannelIteratorNormal iterator = new ChannelIteratorNormal(channels);
             return iterator;
