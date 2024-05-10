@@ -1,30 +1,30 @@
 ﻿<Properties StartupConfiguration="{A253007A-822F-4154-95A0-0863A841D80A}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person.cs">
     <Files>
-      <File FileName="Program.cs" Line="30" Column="45" />
-      <File FileName="NewsletterSubject.cs" Line="1" Column="1" />
-      <File FileName="INewsletterObserver.cs" />
-      <File FileName="Newsletter.cs" Line="1" Column="1" />
-      <File FileName="Person.cs" Line="1" Column="1" />
-      <File FileName="SportNewsletter.cs" Line="26" Column="2" />
+      <File FileName="Program.cs" Line="20" Column="9" />
+      <File FileName="NewsletterSubject.cs" Line="31" Column="20" />
+      <File FileName="INewsletterObserver.cs" Line="9" Column="6" />
+      <File FileName="Newsletter.cs" Line="6" Column="5" />
+      <File FileName="Person.cs" Line="20" Column="66" />
+      <File FileName="SportNewsletter.cs" Line="5" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Observer">
-            <Node name="Observer">
-              <Node name="Program.cs" selected="True" />
+          <Node name="Observer" expanded="True">
+            <Node name="Observer" expanded="True">
+              <Node name="Person.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Observer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

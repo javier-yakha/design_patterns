@@ -8,7 +8,7 @@ namespace Command
 
         public void Deposit(double amount)
         {
-            Balance += amount;
+            Balance += amount; //Balance = Balance + amount;
             Console.WriteLine($"{amount} Euros have been deposited into the account.");
         }
 
