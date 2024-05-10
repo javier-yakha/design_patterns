@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/txpert/.nuget/packages/": {}
+    "/home/javier/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/txpert/Projects/design_patterns/Builder/Builder.csproj",
+      "projectUniqueName": "/home/javier/Projects/design_patterns/Builder/Builder.csproj",
       "projectName": "Builder",
-      "projectPath": "/Users/txpert/Projects/design_patterns/Builder/Builder.csproj",
-      "packagesPath": "/Users/txpert/.nuget/packages/",
-      "outputPath": "/Users/txpert/Projects/design_patterns/Builder/obj/",
+      "projectPath": "/home/javier/Projects/design_patterns/Builder/Builder.csproj",
+      "packagesPath": "/home/javier/.nuget/packages/",
+      "outputPath": "/home/javier/Projects/design_patterns/Builder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/txpert/.nuget/NuGet/NuGet.Config"
+        "/home/javier/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
       }
     }
   }
