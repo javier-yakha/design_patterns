@@ -14,6 +14,11 @@ namespace Command
 
         public void Withdraw(double amount)
         {
+            if (Balance + OverdraftLimit < amount)
+            {
+                Console.WriteLine($"The current withdrawal limit is {Balance + OverdraftLimit}");
+                return;
+            }
             Balance -= amount;
             Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
         
