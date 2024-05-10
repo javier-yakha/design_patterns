@@ -4,7 +4,7 @@ namespace Command
     public class BankAccount
     {
         public double Balance { get; set; } = 0;
-        public double OverdraftLimit { get; set; } = 1000;
+        public double OverdraftLimit { get; set; } = - 1000;
 
         public void Deposit(double amount)
         {
@@ -14,9 +14,19 @@ namespace Command
 
         public void Withdraw(double amount)
         {
-            Balance -= amount;
-            Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
-        
+
+            if (Balance - amount >= -OverdraftLimit)
+            {
+                Balance -= amount;
+                Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
+            }
+            else
+            {
+                Console.WriteLine("Not enough funds available.");
+            }
+
+            //Balance -= amount;
+            //Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
         }
 
         public override string ToString()
