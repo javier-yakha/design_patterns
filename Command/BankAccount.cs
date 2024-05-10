@@ -16,7 +16,7 @@ namespace Command
         {
             if (Balance + OverdraftLimit < amount)
             {
-                Console.WriteLine($"The current withdrawal limit is {Balance + OverdraftLimit}");
+                Console.WriteLine($"The current withdrawal limit is {Balance + OverdraftLimit}, insufficient funds.");
                 return;
             }
             Balance -= amount;

@@ -17,6 +17,8 @@ class Program
         cashMachineSC.ExecuteBankTransaction(command2);
         cashMachineSC.ExecuteBankTransaction(command3);
 
+        cashMachineSC.UndoBankTransaction(command3);
+        
         Console.ReadKey();
     }
 }

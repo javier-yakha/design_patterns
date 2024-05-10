@@ -16,6 +16,7 @@ namespace Command
         {
             bankAccount.Withdraw(amount);
         }
+        public void Undo() {}
     }
 }
 

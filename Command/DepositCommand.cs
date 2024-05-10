@@ -16,6 +16,7 @@ namespace Command
         {
             bankAccount.Deposit(amount);
         }
+        public void Undo() {}
     }
 }
 
